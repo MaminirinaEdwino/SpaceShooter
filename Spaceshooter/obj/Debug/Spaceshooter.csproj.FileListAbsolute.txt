@@ -1,0 +1,11 @@
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\bin\Debug\Spaceshooter.exe.config
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\bin\Debug\Spaceshooter.exe
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\bin\Debug\Spaceshooter.pdb
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.csprojResolveAssemblyReference.cache
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.Form1.resources
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.Properties.Resources.resources
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.csproj.GenerateResource.Cache
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.exe
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\obj\Debug\Spaceshooter.pdb
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\bin\Debug\EntityFramework.dll
+C:\Users\EDWINO\Desktop\Spaceshooter\Spaceshooter\bin\Debug\EntityFramework.xml
